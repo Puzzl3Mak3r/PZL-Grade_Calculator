@@ -1,3 +1,4 @@
+//Note that this is for Console App ONLY!!!. You can adapt code for other apps.
 using System;
 using System.Collections.Generic;
 using System.Linq;
